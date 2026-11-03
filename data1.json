@@ -1,0 +1,12 @@
+{
+    "Name": "Jade Fletcher",
+    "Age": 24,
+    "city": "New York, NY",
+    "interests": [
+        "Gaming",
+        "Baseball",
+        "Cooking"
+    ],
+    "is_student": false,
+    "age": 24
+}
